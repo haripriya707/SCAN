@@ -324,9 +324,9 @@ This project is licensed under the MIT License. See the [LICENSE](https://choose
 
 </div>
 
-- 👨‍💻 **Project Owner:** [Haripriya N](https://github.com/brianchristy)
+- 👨‍💻 **Project Owner:** [Haripriya N](https://github.com/haripriya707)
 - 📧 **Email:** haripriya.nandan@gmail.com
-- 📁 **GitHub Repository:** [SCAN Project](https://github.com/brianchristy/SCAN)
+- 📁 **GitHub Repository:** [SCAN Project](https://github.com/haripriya707/SCAN)
 
 ---
 
@@ -338,5 +338,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://choose
 [![GitHub forks](https://img.shields.io/github/forks/brianchristy/SCAN?style=social)](https://github.com/brianchristy/SCAN/network/members)
 
 </div>
+
 
 
