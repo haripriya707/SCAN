@@ -289,7 +289,7 @@ For testing purposes, the following accounts are available with restricted profi
 <div align="center">
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/brianchristy/SCAN/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/haripriya707/SCAN/pulls)
 
 </div>
 
@@ -319,8 +319,8 @@ This project is licensed under the MIT License. See the [LICENSE](https://choose
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brianchristy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianchristopher170804@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haripriya707)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haripriya.nandan@gmail.com)
 
 </div>
 
@@ -334,10 +334,11 @@ This project is licensed under the MIT License. See the [LICENSE](https://choose
 
 ### ⭐ **Star this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/brianchristy/SCAN?style=social)](https://github.com/brianchristy/SCAN/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/brianchristy/SCAN?style=social)](https://github.com/brianchristy/SCAN/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/brianchristy/SCAN?style=social)](https://github.com/haripriya707/SCAN/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/brianchristy/SCAN?style=social)](https://github.com/haripriya707/SCAN/network/members)
 
 </div>
+
 
 
 
