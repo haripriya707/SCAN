@@ -334,10 +334,11 @@ This project is licensed under the MIT License. See the [LICENSE](https://choose
 
 ### ⭐ **Star this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/brianchristy/SCAN?style=social)](https://github.com/haripriya707/SCAN/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/brianchristy/SCAN?style=social)](https://github.com/haripriya707/SCAN/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/haripriya707/SCAN?style=social)](https://github.com/haripriya707/SCAN/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/haripriya707/SCAN?style=social)](https://github.com/haripriya707/SCAN/network/members)
 
 </div>
+
 
 
 
