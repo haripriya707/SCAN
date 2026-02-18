@@ -146,7 +146,7 @@ SCAN (Senior Citizen Assistance Network) is a comprehensive platform designed to
 
 1. **📥 Clone the Repository:**
    ```bash
-   git clone https://github.com/brianchristy/SCAN.git
+   git clone https://github.com/haripriya707/SCAN.git
    cd SCAN
    ```
 
@@ -190,7 +190,7 @@ SCAN (Senior Citizen Assistance Network) is a comprehensive platform designed to
 
 ### **🌍 Live Demo**
 - 🚀 **Hosted Application:** [https://scan-app.onrender.com](https://scan-app.onrender.com)
-- 📁 **Frontend Repository:** [https://github.com/brianchristy/SCAN/tree/master/frontend](https://github.com/brianchristy/SCAN/tree/master/frontend)
+- 📁 **Frontend Repository:** [https://github.com/haripriya707/SCAN/tree/main/frontend](https://github.com/haripriya707/SCAN/tree/main/frontend)
 
 ---
 
@@ -338,4 +338,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://choose
 [![GitHub forks](https://img.shields.io/github/forks/brianchristy/SCAN?style=social)](https://github.com/brianchristy/SCAN/network/members)
 
 </div>
+
 
